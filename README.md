@@ -1,4 +1,4 @@
-### Hi! I'm Arjun Srivastav. 🙌😋🤩
+### Hi! I'm Arjun Srivastav. 🙌 😋 🤩
 
 🤔 Who am I?:
 * Senior at Rutgers University New Brunswick
