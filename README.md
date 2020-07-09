@@ -1,5 +1,4 @@
-<!-- ### Hi! I'm Arjun Srivastav. 🙌😋🤩 -->
-### ✎  ⓗƗ! 𝕚' 𝓪ʳ𝐉ｕ𝓃 Ŝⓡ𝕚ν𝒶ş𝓣άⓋ  
+### Hi! I'm Arjun Srivastav. 🙌😋🤩
 
 🤔 Who am I?:
 * Senior at Rutgers University New Brunswick
