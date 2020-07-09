@@ -1,4 +1,5 @@
-### Hi! I'm Arjun Srivastav. 🙌🐱‍👤
+<!-- ### Hi! I'm Arjun Srivastav. 🙌😋🤩 -->
+### ✎  ⓗƗ! 𝕚' 𝓪ʳ𝐉ｕ𝓃 Ŝⓡ𝕚ν𝒶ş𝓣άⓋ  
 
 🤔 Who am I?:
 * Senior at Rutgers University New Brunswick
@@ -11,7 +12,7 @@
 
 📚 What am I learning?:
 * Data cleaning and analysis with Python and Pandas
-* Using nodeJS to fetch data from an API and formatting and writing out only the important data to a noSQL database.
+* Using nodeJS to fetch data from an API and formatting and writing out only the relevant data to a noSQL database.
 
 📮 How do I contact you?:
 * School Email: [arjun.srivastav@rutgers.edu](mailto:arjun.srivastav@rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
