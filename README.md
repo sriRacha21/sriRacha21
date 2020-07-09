@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi! I'm Arjun Srivastav. 🙌🐱‍👤
+
+🤔 Who am I?:
+* Senior at Rutgers University New Brunswick
+* Major in Computer Science and minor in Mathematics
+
+☺ What do I like to do?:
+* Playing video games
+* Solving puzzles
+* Backend programming
+
+📚 What am I learning?:
+* Data cleaning and analysis with Python and Pandas
+* Using nodeJS to fetch data from an API and formatting and writing out only the important data to a noSQL database.
+
+📮 How do I contact you?:
+* School Email: [arjun.srivastav@rutgers.edu](mailto:arjun.srivastav@rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
+* [LinkedIn](https://www.linkedin.com/in/arjun-srivastav/)
+* [Twitter](https://twitter.com/sriRachaOW) (I don't use this one very often though)
+
+💖 What are my favorite languages?:
+* JS/TS
 
 <!--
 **sriRacha21/sriRacha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
