@@ -10,8 +10,8 @@
 * Backend programming
 
 📚 What am I learning?:
-* Data cleaning and analysis with Python and Pandas
-* Using nodeJS to fetch data from an API and formatting and writing out only the relevant data to a noSQL database.
+* General Python Programming!
+* Training and tuning an AI
 
 📮 How do I contact you?:
 * School Email: [arjun.srivastav@rutgers.edu](mailto:arjun.srivastav@rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
