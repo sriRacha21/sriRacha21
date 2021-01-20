@@ -16,7 +16,7 @@
 📮 How do I contact you?:
 * School Email: [arjun.srivastav@rutgers.edu](mailto:arjun.srivastav@rutgers.edu?subject=[Github]%20Placeholder%20Subject%20Text)
 * [LinkedIn](https://www.linkedin.com/in/arjun-srivastav/)
-* [Twitter](https://twitter.com/sriRachaOW) (I don't use this one very often though)
+* [Twitter](https://twitter.com/sriRachaOW)
 
 💖 What are my favorite languages?:
 * JS/TS
