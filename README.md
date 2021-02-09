@@ -22,6 +22,7 @@
 * JS/TS
 
 ✅ My Report Card:
+
 ![sriRacha21's Github stats](https://github-readme-stats.vercel.app/api?username=sriRacha21&show_icons=true&theme=radical)
 
 <!--
