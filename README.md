@@ -21,6 +21,9 @@
 💖 What are my favorite languages?:
 * JS/TS
 
+✅ My Report Card:
+![sriRacha21's Github stats](https://github-readme-stats.vercel.app/api?username=sriRacha21&show_icons=true&theme=radical)
+
 <!--
 **sriRacha21/sriRacha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
